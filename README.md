@@ -1,19 +1,13 @@
 # Docker 环境清理脚本 Docker Environment Cleanup Script
 
------
-
 **彻底清理服务器上预装的混乱 Docker 环境，或解决配置失误问题。**
 
 **Thoroughly clean up pre-installed messy Docker environments on servers, or resolve misconfiguration issues.**
-
------
 
 ## 使用方法 Usage
 ```bash
 sudo ./purge-docker.sh  
 ```
-
------
 
 ## 功能
 - 清理所有 Docker 版本（CE/IO/Snap）
@@ -24,8 +18,6 @@ sudo ./purge-docker.sh
 - Remove all Docker versions (CE/IO/Snap)
 - Delete images/containers/volumes/configuration files
 - Verify and display cleanup results
-
------
 
 ## 警告
 - **此脚本会永久删除所有Docker镜像、容器、卷和网络配置！**  
