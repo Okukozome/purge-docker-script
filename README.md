@@ -1,5 +1,7 @@
 # Docker 环境清理脚本 Docker Environment Cleanup Script
 
+> Environment: Ubuntu 22.04 LTS Server
+
 **彻底清理服务器上预装的混乱 Docker 环境，或解决配置失误问题。**
 
 **Thoroughly clean up pre-installed messy Docker environments on servers, or resolve misconfiguration issues.**
